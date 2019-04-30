@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>определение</title>
+</head>
+<body background ="фон.gif">
+<font size = 7>
+<p align = center>
+<font color = Yellow>
+Цунами определение<br>
+<font color = Red>
+<font size = 6>
+Гигантская океаническая волна, возникающая в результате подводных<br> извержений вулканов или подводного землетрясения.
